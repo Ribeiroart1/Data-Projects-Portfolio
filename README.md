@@ -43,6 +43,15 @@ This repository contains a collection of **data analytics, analytics engineering
 
 ---
 
+### 5. End-to-End Lakehouse Analytics (ETL, BI & ML)
+**Objective:** Demonstrate a complete end-to-end analytics workflow, covering data ingestion, transformation, analytical modeling, KPI consumption, dashboarding, and machine learning.
+
+- Techniques: ETL/ELT, Lakehouse (Bronze/Silver/Gold), Star Schema, KPI modeling, time-series forecasting
+- Tools: Python, DuckDB, Pandas, Parquet, Plotly, scikit-learn  
+👉 [View project](End_to_End_Lakehouse_ETL_Dashboard_ML.ipynb)
+
+---
+
 ## 👤 About Me
 
 I am a **Senior Analytics Engineer** with experience designing and operating data platforms, analytics layers, and BI solutions in enterprise and regulated environments.
